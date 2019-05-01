@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/afterpay-test/Martin/_apis/build/status/aheados.pipelines-java?branchName=master)](https://dev.azure.com/afterpay-test/Martin/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
